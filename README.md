@@ -1,6 +1,7 @@
 # CrudAgular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+Projeto de reconhecimento do Angular com Spring boot desenvolvido apenas no VS-Code.
+Gerado inicialmente pelo [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
 ## Development server
 
